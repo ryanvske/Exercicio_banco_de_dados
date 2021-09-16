@@ -1,0 +1,7 @@
+Mesas: id, numero_mesa, quantidade_lugares;
+
+Comandas: id, pedido, valor, id_cliente;
+
+Cliente: id, nome;
+
+Reserva: data_reserva, id.
