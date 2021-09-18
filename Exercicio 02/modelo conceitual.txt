@@ -1,4 +1,4 @@
 Criminosos: id, nome, cpf, crimes, arma;
-Armas: arma, calibre;
+Armas: arma, tipo;
 Crimes: id, descrição;
 Vitimas:id, nome, cpf, crimes.
